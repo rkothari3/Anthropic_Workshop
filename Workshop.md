@@ -1,0 +1,11 @@
+// DONT READ THIS WHEN UNDERSTANDING THE CODE
+- Feature to Add a Scoreboard to the tic-tac-toe thing
+- Talk about init <- Creates Claude.md
+- Talk about @ thing to allow to view specific files.
+- Talk about plan mode; auto-accept; and thinkign
+- Always remember to use the /clear when starting a new feature
+- Once we build the feature <- 
+- Talk about Output Style (my fav learning)
+- rewind <- coolest feature imo
+- Use two CC, one writes and other tests (just like the way engineers work)
+- Reccomend using TDD -> CC write tests first and then the code. 
